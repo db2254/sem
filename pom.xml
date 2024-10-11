@@ -6,7 +6,7 @@
 
     <groupId>com.napier.sem</groupId>
     <artifactId>seMethods</artifactId>
-    <version>0.1.0.1-jar-with-dependencies</version>
+    <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
