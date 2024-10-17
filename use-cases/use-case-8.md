@@ -42,9 +42,9 @@ A request is made to delete the employee's details.
 
 ## EXTENSIONS
 
-3. *Employee details cannot be found:*
+1. *Employee details cannot be found:*
     1. The HR advisor is informed that the employee's details do not exist.
-4. *Deletion process fails:*
+2. *Deletion process fails:*
     1. The system has an error during the deletion process.
    2. The HR advisor attempts deletion again or contacts IT for technical support.
 
