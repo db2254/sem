@@ -1,4 +1,4 @@
-# USE CASE: 8 Produce a Report on the Salary of Employees of a Given Role
+# USE CASE: 8 As an HR advisor I want to delete an employee's details so that the company is compliant with data retention legislation.
 
 ## CHARACTERISTIC INFORMATION
 
