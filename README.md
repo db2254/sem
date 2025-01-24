@@ -4,4 +4,3 @@
 * License [![LICENSE](https://img.shields.io/github/license/db2254/sem.svg?style=flat-square)](https://github.com/db2254/sem/blob/master/LICENSE)
 * Release [![Releases](https://img.shields.io/github/release/db2254/sem/all.svg?style=flat-square)](https://github.com/db2254/sem/releases)
 
-test
